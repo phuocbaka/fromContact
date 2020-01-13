@@ -1,0 +1,18 @@
+$width:78%;
+
+.App{
+  width: 100%;
+}
+.App-header-all{
+  border-bottom: solid #cacaca;
+  margin-top: 15px;
+}
+
+.App-header{
+  width: $width;
+  margin: 0 auto;
+}
+.App-header img{
+  width: 240px;
+
+}

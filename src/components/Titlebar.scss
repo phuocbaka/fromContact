@@ -1,0 +1,18 @@
+.til-bar{
+    width: 65%;
+    margin: 0 auto;
+    border-left: 4px solid #4d64ad;
+    height: 26px;
+}
+.til-bar h3{
+    padding-left: 10px;
+}
+
+@media screen and (max-width: 1024px){
+    .navbar ,.App-header {
+        width: 90%;
+    }
+    .til-bar {
+        width: 85%;
+    }
+}

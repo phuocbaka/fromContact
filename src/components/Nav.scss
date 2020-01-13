@@ -1,0 +1,26 @@
+.navbar{
+    width: 1000px;
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid #444444;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.nav-left h1{
+    margin: 0;
+    font-size: 26px;
+
+}
+.nav-right{
+    font-size: 12px;
+    position: relative;
+    top: 16px;
+}
+a{
+    list-style: none;
+    color: #31c0e2;
+    text-decoration: none;
+}
